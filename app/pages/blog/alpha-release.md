@@ -219,7 +219,7 @@ headline="Read more from the community"
     url: 'https://piccalil.li/blog/finding-an-accessibility-first-culture-in-npmx/',
     title: 'Finding an accessibility-first culture in npmx',
     authorHandle: 'abbeyperini.dev',
-    description: 'Abbey Perini talks about how accessibility is a deep part of the  npmx culture.'
+    description: 'Abbey Perini talks about how accessibility is a deep part of the npmx culture.'
   }
 ]"
 />
